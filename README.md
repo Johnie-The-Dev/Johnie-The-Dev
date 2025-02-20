@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mr-robot-the-anonymous
 - 👀 I’m interested in web development and mobile development
-- 🌱 I use React.js, Express.js, MySQL, Python, HTML, CSS, JavaScript, Kivy
+- 🌱 I love Python with Django
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...johnkarish073@gmail.com
 
