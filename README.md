@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mr-robot-the-anonymous
-- 👀 I’m interested in web development and mobile development
+- 👋 Hi, I’m @Johnie-The-Dev
+- 👀 I’m interested in web development and Artificial Intelligence
 - 🌱 I love Python with Django
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...johnkarish073@gmail.com
